@@ -1,0 +1,58 @@
+{
+
+	"details": [{
+		"name": "Jaya",
+		"image": "ram.jpg",
+		"rollno": "Roll No. 311136410033",
+		"college":"Dr.L.Bullayya College",
+		"email":"jaya@gmail.com",
+		"mobile":"9879668236",
+		"role":"Web Developer"
+	}],
+
+	
+	"careerobjective": [{
+		"information": "To become Full stack developer"
+	}],
+
+	"educationalqualifications": [{
+			"institute": "B.E/B.Tech",
+			"degree": "B.Tech",
+			"passoutyear": "2018",
+			"percentage": "88%"
+		},
+		{
+			"institute": "Sri Chaitanya College",
+			"degree": "Intermediate",
+			"passoutyear": "2014",
+			"percentage": "95%"
+		},
+		{
+			"institute": "Sri Satya Sai High School",
+			"degree": "SSC",
+			"passoutyear": "2012",
+			"percentage": "90%"
+		}
+
+	],
+
+	"technicalskills": [{
+			"title": "Programming Languages",
+			"info": ["C, C++, PHP"]
+
+		},
+		{
+			"title": "Database",
+			"info": ["SQL, MySql"]
+		},
+		{
+			"title": "Operating Systems",
+			"info": ["Windows", "Linux", "Unix"]
+
+		},
+		{
+			"title":"Mark Up Language",
+		"info":["HTML, XHTML"]		}
+	]
+
+}
