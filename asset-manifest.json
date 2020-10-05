@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resumeusingreact12/static/css/main.31431516.chunk.css",
+    "main.js": "/resumeusingreact12/static/js/main.5d53b5b0.chunk.js",
+    "main.js.map": "/resumeusingreact12/static/js/main.5d53b5b0.chunk.js.map",
+    "runtime-main.js": "/resumeusingreact12/static/js/runtime-main.c808ad0e.js",
+    "runtime-main.js.map": "/resumeusingreact12/static/js/runtime-main.c808ad0e.js.map",
+    "static/js/2.7b7d1b9b.chunk.js": "/resumeusingreact12/static/js/2.7b7d1b9b.chunk.js",
+    "static/js/2.7b7d1b9b.chunk.js.map": "/resumeusingreact12/static/js/2.7b7d1b9b.chunk.js.map",
+    "index.html": "/resumeusingreact12/index.html",
+    "precache-manifest.977a3ca23af8f7ad95a45b1375bf2cc3.js": "/resumeusingreact12/precache-manifest.977a3ca23af8f7ad95a45b1375bf2cc3.js",
+    "service-worker.js": "/resumeusingreact12/service-worker.js",
+    "static/css/main.31431516.chunk.css.map": "/resumeusingreact12/static/css/main.31431516.chunk.css.map",
+    "static/js/2.7b7d1b9b.chunk.js.LICENSE.txt": "/resumeusingreact12/static/js/2.7b7d1b9b.chunk.js.LICENSE.txt",
+    "static/media/ram.jpg": "/resumeusingreact12/static/media/ram.64c45fd8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c808ad0e.js",
+    "static/js/2.7b7d1b9b.chunk.js",
+    "static/css/main.31431516.chunk.css",
+    "static/js/main.5d53b5b0.chunk.js"
+  ]
+}
